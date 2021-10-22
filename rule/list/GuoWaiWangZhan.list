@@ -13,6 +13,8 @@ DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,bnbzh.ac
 DOMAIN-KEYWORD,bnb
 DOMAIN,fstream.binance.com
+DOMAIN,monitor.bgp.sh
+
 
 # MyList && Other
 DOMAIN-SUFFIX,dler.cloud

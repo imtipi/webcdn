@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,binance.cloud
 DOMAIN-SUFFIX,bntrace.com
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,bnbzh.ac
+DOMAIN-KEYWORD,bnb
 
 # MyList && Other
 DOMAIN-SUFFIX,dler.cloud

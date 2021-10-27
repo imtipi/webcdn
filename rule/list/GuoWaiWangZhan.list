@@ -2,6 +2,7 @@
 #list by tipi
 DOMAIN-SUFFIX,bgp.sh
 DOMAIN,monitor.bgp.sh
+DOMAIN-SUFFIX,jsdeliver.net
 
 
 # MyList && Other

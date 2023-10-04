@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,sm.ms
 DOMAIN-SUFFIX,defidaonews.com
 DOMAIN-SUFFIX,etherscan.io
 DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-KEYWORD,duolingo
 
 # MyList && Other
 DOMAIN-SUFFIX,dler.cloud

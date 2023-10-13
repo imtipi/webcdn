@@ -17,6 +17,8 @@ DOMAIN-SUFFIX,defidaonews.com
 DOMAIN-SUFFIX,etherscan.io
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-KEYWORD,duolingo
+DOMAIN-KEYWORD,ouyi
+DOMAIN-SUFFIX,coinall.ltd
 
 # MyList && Other
 DOMAIN-SUFFIX,dler.cloud

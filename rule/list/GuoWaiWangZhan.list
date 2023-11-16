@@ -19,6 +19,8 @@ DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-KEYWORD,duolingo
 DOMAIN-KEYWORD,ouyi
 DOMAIN-SUFFIX,coinall.ltd
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
 
 # MyList && Other
 DOMAIN-SUFFIX,dler.cloud
